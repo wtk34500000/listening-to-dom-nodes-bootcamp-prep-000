@@ -17,6 +17,7 @@ input.addEventListener('keydown', function(e) {
     console.log(e.which)
   }
 });
+
 divs = document.querySelectorAll('div');
  
 function capture(e) {
